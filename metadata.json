@@ -1,0 +1,6 @@
+{
+  "name": "easyFinance",
+  "description": "极简金融术语悬浮翻译与实时快讯助手，支持真实电脑纯净悬浮HUD模式与研读窗口按需展开，提供双模解释、快捷逻辑框图、自由选区截屏与桌面端打包方案。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
